@@ -11,3 +11,9 @@
         font-size: calc(28 + 12 * (100vw / 320));
     }
 }
+
+@media (max-width: 767px) {
+    .capabilities__imgage-img{
+        width: 100%;
+    }
+}
